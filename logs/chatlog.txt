@@ -1,0 +1,13 @@
+[NV01] Lương Công Huấn: chào mn
+[NV02] Trần Thế Lâm: hello
+[NV03] Lê Đình Mẫn: chào bạn!
+[NV04] Lương Công Thành: sup!
+[NV02] Trần Thế Lâm: test
+[NV01] Lương Công Huấn: 123
+[NV04] Lương Công Thành: 321
+[NV01] Lương Công Huấn: test
+[NV02] Trần Thế Lâm: hi
+[NV03] Lê Đình Mẫn: hi
+[NV01] Lương Công Huấn: hi ban
+[NV01] Lương Công Huấn: dmm
+[NV02] Trần Thế Lâm: dmm cc
