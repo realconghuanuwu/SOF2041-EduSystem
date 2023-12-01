@@ -35,14 +35,14 @@ public class XEmail {
                     new javax.mail.Authenticator() {
                 @Override
                 protected PasswordAuthentication getPasswordAuthentication() {
-                    return new PasswordAuthentication("huanlcps28692@fpt.edu.vn", "snislviusmcpcfvw");
+                    return new PasswordAuthentication("điền email ở đây", "điền password ở đây!");
                 }
             });
             
             try {
                 //Tạo đối tượng Message từ session 
                 Message message = new MimeMessage(session);
-                message.setFrom(new InternetAddress("huanlcps28692@fpt.edu.vn"));
+                message.setFrom(new InternetAddress("điền email ở đây"));
                 InternetAddress[] IAddresses = new InternetAddress[emailList.length];
                 for (int i = 0; i < emailList.length; i++) {
                     String email = String.valueOf(emailList[i]);
